@@ -1,0 +1,10 @@
+C:\Users\a.bouabdallah\Documents\Visual Studio 2010\Projects\CautiousChange\CautiousChange\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a.bouabdallah\Documents\Visual Studio 2010\Projects\CautiousChange\CautiousChange\obj\Debug\CautiousChange.PlugIn1.resources
+C:\Users\a.bouabdallah\Documents\Visual Studio 2010\Projects\CautiousChange\CautiousChange\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\a.bouabdallah\Documents\Visual Studio 2010\Projects\CautiousChange\CautiousChange\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\a.bouabdallah\Documents\DevExpress\IDE Tools\Community\PlugIns\CautiousChange.dll
+C:\Users\a.bouabdallah\Documents\DevExpress\IDE Tools\Community\PlugIns\CautiousChange.pdb
+C:\Users\a.bouabdallah\Documents\Visual Studio 2010\Projects\CautiousChange\CautiousChange\obj\Debug\CautiousChange.dll
+C:\Users\a.bouabdallah\Documents\Visual Studio 2010\Projects\CautiousChange\CautiousChange\obj\Debug\CautiousChange.pdb
+C:\Users\a.bouabdallah\Documents\Visual Studio 2010\Projects\CautiousChange\CautiousChange\obj\Debug\Decl\CautiousChange.dll
+C:\Users\a.bouabdallah\Documents\Visual Studio 2010\Projects\CautiousChange\CautiousChange\obj\Debug\Decl\CautiousChange.pdb
